@@ -564,7 +564,7 @@ h5{
     }
 }
 
-@media (max-width: 549px){ 
+@media (max-width: 550px){ 
     .new-cards, .new-cards2 {
       grid-template-columns: 1fr;
     }
