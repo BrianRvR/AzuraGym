@@ -3,7 +3,7 @@ document.querySelector(".menu-btn").addEventListener("click", () => {
   });
   
   ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.showcasem', { delay: 500 });
+  ScrollReveal().reveal('.showcasem');
   ScrollReveal().reveal('.beneficio', { delay: 500 });
   ScrollReveal().reveal('.texto2', { delay: 500 });
   ScrollReveal().reveal('.texto', { delay: 600 });
